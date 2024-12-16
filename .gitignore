@@ -6,5 +6,4 @@ worker.min.js
 *.traineddata
 *.traineddata.gz
 .nyc_output
-dist/
 *.swp
